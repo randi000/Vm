@@ -1,4 +1,3 @@
----
 services:
   webtop:
     image: lscr.io/linuxserver/webtop:debian-mate
